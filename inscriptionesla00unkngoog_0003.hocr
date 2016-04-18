@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./inscriptionesla00unkngoog_0003.png"; bbox 0 0 3432 5387; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 132 228 3774">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 132 228 3774">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 132 228 3774; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 132 228 3774; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 187 660 3280 1136">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 25 631 3280 1136">
+     <span class='ocr_line' id='line_1_2' title="bbox 187 660 3280 1136; baseline 0.01 -117.457"><span class='ocrx_word' id='word_1_2' title='bbox 187 660 237 1136; x_wconf 62' lang='lat' dir='ltr'><em>J</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 298 660 1994 1032; x_wconf 57' lang='lat' dir='ltr'><strong>1}JSORIPTIONES</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2114 824 3123 1047; x_wconf 80' lang='lat' dir='ltr'><strong>LATINAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3263 686 3280 703; x_wconf 40' lang='lat'><em>⁶</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1321 1286 2374 1459">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1321 1286 2374 1459">
+     <span class='ocr_line' id='line_1_3' title="bbox 1321 1286 2374 1459; baseline 0.004 -8"><span class='ocrx_word' id='word_1_6' title='bbox 1321 1286 2078 1459; x_wconf 78' lang='lat' dir='ltr'><strong>SELEOTAE.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2371 1454 2374 1455; x_wconf 5' lang='grc' dir='ltr'><em>ξ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1063 2509 2326 2635">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1063 2509 2326 2635">
+     <span class='ocr_line' id='line_1_4' title="bbox 1063 2509 2326 2635; baseline 0.01 -46"><span class='ocrx_word' id='word_1_8' title='bbox 1063 2509 1787 2595; x_wconf 86' lang='lat' dir='ltr'><strong>HERMANNUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1852 2514 2326 2635; x_wconf 73' lang='lat' dir='ltr'><strong>DESSAU.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1546 3208 1832 3278">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1546 3208 1832 3278">
+     <span class='ocr_line' id='line_1_5' title="bbox 1546 3208 1832 3278; baseline 0.01 -3"><span class='ocrx_word' id='word_1_10' title='bbox 1546 3208 1832 3278; x_wconf 87' lang='lat'><strong>......</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1279 4326 2092 4340">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1279 4326 2092 4340">
+     <span class='ocr_line' id='line_1_6' title="bbox 1279 4326 2092 4340; baseline 0 1047"><span class='ocrx_word' id='word_1_11' title='bbox 1279 4326 2092 4340; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
